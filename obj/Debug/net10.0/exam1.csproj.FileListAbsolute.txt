@@ -1,0 +1,14 @@
+/Users/apple/Desktop/exam1/bin/Debug/net10.0/exam1
+/Users/apple/Desktop/exam1/bin/Debug/net10.0/exam1.deps.json
+/Users/apple/Desktop/exam1/bin/Debug/net10.0/exam1.runtimeconfig.json
+/Users/apple/Desktop/exam1/bin/Debug/net10.0/exam1.dll
+/Users/apple/Desktop/exam1/bin/Debug/net10.0/exam1.pdb
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/exam1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/exam1.AssemblyInfoInputs.cache
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/exam1.AssemblyInfo.cs
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/exam1.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/exam1.dll
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/refint/exam1.dll
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/exam1.pdb
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/exam1.genruntimeconfig.cache
+/Users/apple/Desktop/exam1/obj/Debug/net10.0/ref/exam1.dll
